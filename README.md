@@ -1,12 +1,10 @@
 # Random-Tobit-Overall-Exposure
-Estimation of Overall Exposure Effects for Tobit Regression Models
+Estimation of Overall Exposure Effects for Random Effect Tobit Regression Models
 
-SAS Macro for Wang W, and Griswold ME (2015). Natural interpretations in Tobit regression models using marginal estimation methods. Statistical Methods in Medical Research. DOI: 10.1177/0962280215602716
+SAS Macro for Wang W, and Griswold ME (2015). Estimating overall exposure effects for the clustered and censored outcome using random effect Tobit regression models. Statistics in Medicine, submitted.
 
 Here is a general explanation of what is contained in this folder.
 
-Final SMMR Manuscript Sep 02 2015.full.pdf Published SMMR manuscript.
+Example.xls: Excel data example used to illustrate the usage of the SAS macro.
 
-Example.xls Excel data example used to illustrate the usage of the SAS macro.
-
-TOBIT Overall Exposure Macro Final V2 Jan 2016.sas Main SAS macro application for the developed methods.
+Random Tobit Overall Exposure Macro V1 May 2016.sas: Main SAS macro application for the developed methods.
