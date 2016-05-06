@@ -1,4 +1,5 @@
-#Estimation of Overall Exposure Effects for Tobit Regression Models
+# Random-Tobit-Overall-Exposure
+Estimation of Overall Exposure Effects for Tobit Regression Models
 
 SAS Macro for Wang W, and Griswold ME (2015). Natural interpretations in Tobit regression models using marginal estimation methods. Statistical Methods in Medical Research. DOI: 10.1177/0962280215602716
 
