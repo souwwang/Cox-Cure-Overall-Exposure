@@ -1,5 +1,6 @@
-# Random-Tobit-Overall-Exposure
-Estimation of Overall Exposure Effects for Random Effect Tobit Regression Models
+# Cox-Cure-Overall-Exposure
+Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data
+
 
 SAS Macro for Wang W, and Griswold ME (2016). Estimating overall exposure effects for the clustered and censored outcome using random effect Tobit regression models. Statistics in Medicine, submitted.
 
