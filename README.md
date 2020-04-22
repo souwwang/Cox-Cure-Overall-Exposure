@@ -3,7 +3,7 @@ Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censo
 
 Causal Mediation Analysis for a Continuous Exposure and a Dichotomous Outcome
 
-SAS Macro for Wang W, and Zhang B (2016). Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data. Statistical Methods in Medical Research, submitted.
+SAS Macro for Wang W, Cong N, Zhang H and Zhang B (2016). Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data. Statistical Methods in Medical Research, submitted.
 
 Here is a general explanation of what is contained in this folder.
 
