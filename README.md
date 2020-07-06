@@ -1,11 +1,11 @@
 # Cox-Cure-Overall-Exposure
 Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data
 
-Causal Mediation Analysis for a Continuous Exposure and a Dichotomous Outcome
-
 SAS Macro for Wang W, Cong N, Zhang H and Zhang B. Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data. Statistical Methods in Medical Research, submitted.
 
 Here is a general explanation of what is contained in this folder.
+
+Biometrics Data: Murray Smoking Cessation data, data example used in the manuscript
 
 Example.xls: Excel data example used to illustrate the usage of the SAS macro.
 
