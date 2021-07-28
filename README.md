@@ -1,7 +1,7 @@
 # Cox-Cure-Overall-Exposure
 Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data
 
-SAS Macro for Wang W, Cong N, Zhang H and Zhang B. Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data. Submitted.
+SAS Macro for Wang W, Cong N, Ye A, Zhang H and Zhang B. Exposure Assessment for Cox Proportional Hazards Cure Models with Interval-Censored Survival Data. Biometrical Journal, Accepted. http://doi.org/10.1002/bimj.202000271.
 
 Here is a general explanation of what is contained in this folder.
 
